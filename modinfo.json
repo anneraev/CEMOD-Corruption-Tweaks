@@ -1,0 +1,18 @@
+{
+	"name": "CorruptionPerk Tweaks v 1.1",
+	"description": "Tweaks corruption perks to be more effective. Now their effects might be worth the loss of all that health, stamina and other perks for them.\n\nHere's what is currently changed:\n- Desecration and Tainted Vessel now ignore armor when dealing damage.\n- Desecration now has a 15% chance of activating, instead of 5%.\n- Twisted Flesh's chance to ignore damage is doubled.\n\nFuture Plans:\nI want to make Demon Lord actually useful. Right now main problem with the perk isn't soemthing I can fix with a simple tweak. Demons can be summoned if you accidentally strike followers (even with a gathering tool) and may distract followers or outright get in fights with you. I am exploring ways to make this perk more reliable. ",
+	"changeNote": "Removed superfluous records.",
+	"author": "Necro",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 1,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "3046968538",
+	"steamTestLivePublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "Corruption_Perk_Tweaks",
+	"revisionNumber": 543717,
+	"snapshotId": 38653,
+	"fileSize": 256
+}
